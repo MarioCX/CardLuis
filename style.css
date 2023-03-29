@@ -1,0 +1,65 @@
+* {
+    background-color: rgb(238, 214, 154);
+
+}
+ section {
+    position: relative;
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    top: 130px;
+    border: 2px solid white;
+    
+}   
+
+.perfilimg {
+    width: 120px;
+    height: 150px;
+    border-radius: 10%;
+    display: block;
+    margin: 0 auto;
+    border: 2px solid rgb(71, 73, 8);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.user {
+    text-align: center;
+    font-size: 45px;
+    color: rgba(79, 87, 8, 0.986);
+} 
+
+.links {
+    padding-top: 30px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+a {
+    padding: 5px;
+    height: 30px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-weight: 500; 
+    border-radius: 20px;
+    color: white;
+    display: block;
+    text-align: center}
+
+.WhatsApp{
+    background-color: #00bb2d ;
+}   
+.Facebook{
+    background-color: #3b5998 ;
+}   
+.Facebook:hover {
+    background-color: rgb(38, 78, 237);
+    position: relative;
+    bottom: 1px;
+    font-size: 20px;
+}
+.Instagram{
+    background-color: #F56040 ;
+}  
+.LinkedIn{
+    background-color: #409bf5 ;
+}   
